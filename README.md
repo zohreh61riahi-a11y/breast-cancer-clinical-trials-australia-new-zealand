@@ -35,8 +35,8 @@ The analysis is a dated registry snapshot. It describes registered trial activit
 
 ## Repository contents
 
-- `BC_Clinical.ipynb` - reproducible Python notebook for API extraction, data preparation, validation, analysis and visualisation
-- `Breast_Cancer_Clinical_Trials_Australia_New_Zealand_Report.pdf` - 16-page public report
+- `BC Clinical.ipynb` - reproducible Python notebook for API extraction, data preparation, validation, analysis and visualisation
+- `FINAL-Breast_Cancer_Clinical_Trials_Australia_New_Zealand_Report.pdf` - 16-page public report
 - `Interactive_Map_Breast_Cancer_Recruiting_Trials_Australia_New_Zealand_2026-09-06.html` - interactive city-level map
 - `data/` - trial-level and site-level CSV datasets
 - `tables/` - exported analytical summary tables
