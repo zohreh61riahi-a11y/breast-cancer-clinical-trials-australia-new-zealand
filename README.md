@@ -56,7 +56,7 @@ The analysis was completed in Python using `requests`, `pandas`, `matplotlib` an
 
 ## Interactive map
 
-Open the [interactive city-level trial map](Interactive_Map_Breast_Cancer_Recruiting_Trials_Australia_New_Zealand_2026-09-06.html) to explore registered recruiting locations, facility labels and linked ClinicalTrials.gov records.
+Open the [interactive city-level trial map](https://zohreh61riahi-a11y.github.io/breast-cancer-clinical-trials-australia-new-zealand/Interactive_Map_Breast_Cancer_Recruiting_Trials_Australia_New_Zealand_2026-09-06.html) to explore registered recruiting locations, facility labels and linked ClinicalTrials.gov records.
 
 The map covers 97 city labels: 90 in Australia and 7 in New Zealand. Coordinates are intended for geographic visualisation rather than clinical navigation.
 
